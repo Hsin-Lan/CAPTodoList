@@ -1,0 +1,2 @@
+sap.ui.require(["sap/fe/test/JourneyRunner","todolist/myapplication/test/integration/FirstJourney","todolist/myapplication/test/integration/pages/TodoListsList","todolist/myapplication/test/integration/pages/TodoListsObjectPage","todolist/myapplication/test/integration/pages/TasksObjectPage"],function(t,i,e,o,s){"use strict";var t=new t({launchUrl:sap.ui.require.toUrl("todolist/myapplication")+"/index.html"});t.run({pages:{onTheTodoListsList:e,onTheTodoListsObjectPage:o,onTheTasksObjectPage:s}},i.run)});
+//# sourceMappingURL=opaTests.qunit.js.map

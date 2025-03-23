@@ -1,0 +1,2 @@
+sap.ui.define(["sap/fe/test/ObjectPage"],function(t){"use strict";var e={actions:{},assertions:{}};return new t({appId:"todolist.myapplication",componentId:"TodoListsObjectPage",contextPath:"/TodoLists"},e)});
+//# sourceMappingURL=TodoListsObjectPage.js.map

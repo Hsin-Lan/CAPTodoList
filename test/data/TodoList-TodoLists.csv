@@ -1,0 +1,6 @@
+ID;title;createdDate;status;createdAt;createdBy;modifiedAt;modifiedBy
+3cfedc6d-cb99-4165-8060-92b6d1729f4e;Grocery List;2021-06-27;active;2021-06-27T14:52:23Z;Alice;2021-06-27T14:52:23Z;Alice
+d301d9c6-1f4e-4878-a684-43e5851c0670;Workout Plan;2021-06-27;active;2021-06-27T14:52:23Z;Bob;2021-06-27T14:52:23Z;Bob
+5e2116c2-0d06-4557-a733-e351d38f0947;Project Ideas;2021-06-27;active;2021-06-27T14:52:23Z;Charlie;2021-06-27T14:52:23Z;Charlie
+e46144e4-4f3b-410d-922a-4b5a61627486;Reading List;2021-06-27;active;2021-06-27T14:52:23Z;David;2021-06-27T14:52:23Z;David
+42919b81-c23e-42ed-8a36-59d1a63e0809;Travel Plans;2021-06-27;active;2021-06-27T14:52:23Z;Eve;2021-06-27T14:52:23Z;Eve

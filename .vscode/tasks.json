@@ -64,6 +64,18 @@
       "label": "Enable Discovery and Deploy TodoList",
       "taskType": "Deploy",
       "enableDiscovery": "true"
+    },
+    {
+      "type": "build.mta",
+      "label": "Build MTA: TodoList - PT",
+      "taskType": "Build",
+      "projectPath": "/home/user/projects/TodoList",
+      "extensions": [],
+      "ui5theme": "sap_belize",
+      "vendorDependency": false,
+      "buildCodeServicePlan": false,
+      "subdomain": "",
+      "ui5version": "1.134.0"
     }
   ]
 }
